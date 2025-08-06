@@ -1,5 +1,5 @@
 {
-    "name": "brandonwamboldt/utilphp",
+    "name": "mshanken/utilphp",
     "type": "library",
     "version": "1.1.0",
     "description": "util.php is a collection of useful functions and snippets that you need or could use every day, designed to avoid conflicts with existing projects",
